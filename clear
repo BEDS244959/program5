@@ -1,0 +1,90 @@
+[33mcommit 7599eb47b43309f6a272b03ad634647c4670decc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Tue Dec 16 12:42:13 2025 +0530
+
+    commited2
+
+[33mcommit c5e0101e6f078fc5886fc1e97d49d215c513f094[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Tue Dec 16 12:41:18 2025 +0530
+
+    commited1
+
+[33mcommit 8e4956b0814a6a4cfcb55d74b8958e8db484f1c5[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Tue Dec 16 12:40:41 2025 +0530
+
+     commited
+
+[33mcommit 76a4d848a4d059b6dd9a158127348015a30ace8a[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Tue Dec 16 11:58:20 2025 +0530
+
+    commit 3: hi2
+
+[33mcommit 31248b62841d6628b33e51a3449aedfe8596f8b9[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Tue Dec 16 11:57:22 2025 +0530
+
+    commit 2: hi1
+
+[33mcommit d7d1431d99cd52a18d6dbf44d6defd39417ada56[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Tue Dec 16 11:56:11 2025 +0530
+
+    commit 1: hi
+
+[33mcommit 356338e20a2b8b15274a755ae754f26c1d754554[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m)[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Tue Dec 16 11:37:16 2025 +0530
+
+    initial version of the app
+
+[33mcommit 01c35aee85bf27d20a7a7f5f43ed04a1d767715f[m
+Merge: ab6c684 a65efc6
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Tue Dec 16 11:03:46 2025 +0530
+
+    merge feature-branch
+
+[33mcommit a65efc6315fcfd72f27f5e9fb52a176862de9193[m[33m ([m[1;31morigin/prog6-branch[m[33m, [m[1;32mprog6-branch[m[33m)[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Tue Dec 16 11:01:21 2025 +0530
+
+    branch commit
+
+[33mcommit ab6c684d429427d082f212a674f234cbab9de2d1[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Tue Dec 16 10:59:27 2025 +0530
+
+    first commit in welcome.txt
+
+[33mcommit ae2641b50b7bb4086d1a28a7fa3b12206daec35f[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Mon Dec 15 18:58:12 2025 +0530
+
+    my git lab
+
+[33mcommit ef2edfea6cfb31e687250467fbd1eaaf48295d49[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Mon Dec 15 18:56:42 2025 +0530
+
+     my git lab
+
+[33mcommit 006c180f2b15c013f42e3562de04f510c973367a[m[33m ([m[1;32mbranch2[m[33m)[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Mon Dec 15 18:53:33 2025 +0530
+
+    my git lab
+
+[33mcommit 854a5ee2db388ecbf89b7d6b4993f20a9be8f1f8[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Sun Dec 14 19:42:28 2025 +0530
+
+     This is my second commit
+
+[33mcommit 0edcf16cd576badb492ad21c9b3eafb318dde855[m
+Author: [1;31mvivek[m <[1;31mvivek[m[1;31mvivek[ma1204gmail.com>
+Date:   Sun Dec 14 19:35:07 2025 +0530
+
+     This is my first commit
